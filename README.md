@@ -23,6 +23,9 @@ PasteNow 是一个为 macOS 打造的 系统状态栏剪贴板管理器，支持
   功能   快捷键
   打开剪贴板窗口    ⌘ + ⌥ + V
   关闭剪贴板窗口   点击弹窗外区域
+
+
+  
   hotKey = HotKey(key: .v, modifiers: [.command, .option])
 
 
